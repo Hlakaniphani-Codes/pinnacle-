@@ -40,12 +40,13 @@ it reads as active rather than static.
 
 - **Office:** 27 Bram Fischer Road, North Beach, Durban, 4001
 - **Phone:** 087 088 4506
+- **Reg. No.:** 2026/719541/07
 - The company's **founding year is deliberately not shown** anywhere — do not add it back.
 - No team-member names or photos (removed at the client's request).
 
 ## Before go-live — replace the remaining placeholders
 
-1. **Email / registration number** — `hello@pinnaclerecruitment.co.za` and `Reg. No. 2019/XXXXXX/07`.
+1. **Email** — `hello@pinnaclerecruitment.co.za`.
 2. **Images** — all photos load from the Unsplash CDN as placeholders. Swap for the client's
    own office and site photography and host them in `assets/` (hero image is set via the
    `--hero-img` inline style on `.hero` in `index.html`).

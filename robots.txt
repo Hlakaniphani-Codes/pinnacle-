@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://www.pinnaclerecruitment.co.za/sitemap.xml

@@ -21,14 +21,14 @@ and [corestaffingsolutions.co.in](https://www.corestaffingsolutions.co.in/).
 
 ## Design
 
-Clean, organised corporate staffing style (modelled on plsstaff.co.za) — charcoal top
-bar and header, dark hero with a 4-stat strip, solid colour blocks (grey / red split
-panels), plain bordered grids, sharp-cornered buttons — with a motion layer on top so
-it reads as active rather than static.
+Clean, organised corporate staffing style (modelled on plsstaff.co.za): dark green header,
+dark hero with a 4-stat strip, solid colour blocks (grey / green split panels), plain
+bordered grids, sharp-cornered buttons, with a motion layer on top so it reads as active
+rather than static.
 
-- **Palette:** brand red (`#DA1F28`) as the single accent, charcoal (`#2E2E30`) for the
-  header / hero / dark sections / footer, white and a light grey (`#F4F4F5`) for the
-  rest. All CSS custom properties in `css/style.css` (`:root`).
+- **Palette:** green (`#15803D`) as the single accent, near-black green (`#10231B`) for the
+  header / hero / dark sections / footer, white and a faint green-grey (`#F1F5F2`) for the
+  rest. No red anywhere. All CSS custom properties in `css/style.css` (`:root`).
 - **Type:** Heebo (headings) + Lato (body), from Google Fonts. No serif.
 - **Motion** (respects `prefers-reduced-motion`): slow Ken-Burns zoom on the hero image,
   rotating last word of the headline, a scroll-progress bar, a looping live-vacancies
@@ -41,6 +41,9 @@ it reads as active rather than static.
 - **Office:** 27 Bram Fischer Road, North Beach, Durban, 4001
 - **Phone:** 087 088 4506
 - **Reg. No.:** 2026/719541/07
+- **Palette:** green and white only (client instruction). Do not add red or other accents.
+- **Photography:** must feature Black people (majority black-owned company). Current stock
+  images are placeholders that already reflect this; the hero uses a neutral city skyline.
 - The company's **founding year is deliberately not shown** anywhere — do not add it back.
 - No team-member names or photos (removed at the client's request).
 
